@@ -1,0 +1,6 @@
+{
+  "name": "EventHive - SRHU Campus Events & Pass Booking",
+  "description": "EventHive is the official event discovery and pass booking portal for Swami Rama Himalayan University (SRHU), Jolly Grant. Features school-specific event publishing, department-level registration control, live toast notification alerts, interactive seat maps, and QR ticket generation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
